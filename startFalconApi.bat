@@ -1,0 +1,2 @@
+uvicorn API:app
+pause

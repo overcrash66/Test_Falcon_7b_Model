@@ -1,0 +1,6 @@
+huggingface
+transformers
+accelerate einops
+xformers
+fastapi
+uvicorn
