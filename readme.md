@@ -4,8 +4,8 @@
 
 ``Tested with python 3.10``
 ``Windows 11``
-``Ryzan 7 3800x``
-``RTX 3600``
+``Ryzan 7 3800x 8core``
+``RTX 3060 12gb``
 ``32GB RAM``
 
 ``Pip -r install requirement.txt``
