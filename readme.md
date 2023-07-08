@@ -4,11 +4,11 @@
 
 ``Tested with python 3.10``
 ``Windows 11``
-``Ryzan 7 3800x 8core``
+``Ryzen 7 3800x 8core``
 ``RTX 3060 12gb``
 ``32GB RAM``
 
-``Pip -r install requirement.txt``
+``Pip -r install requirements.txt``
 
 ``Run service.Py wait until it finishes downloading falcon model``
 
@@ -20,12 +20,12 @@
 
 ``All chat history will be saved in data.txt file``
 
-## My own review having tested Falcon 7b modal:
+## My own review having tested Falcon 7b model:
  
--1. it feels heavy. 
+-1. it feels heavy. (13.4gb full size)
 
--2. slow
+-2. slow to return answers
 
 -3. There are some limitations as it cannot answer questions related to basic math.
 
--4. is not 100% accurate.
+-4. is not 100% accurate. (do not return the right answer all times, or return wrong informations)
