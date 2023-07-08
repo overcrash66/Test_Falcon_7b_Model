@@ -8,7 +8,7 @@
 ``RTX 3060 12gb``
 ``32GB RAM``
 
-``Pip -r install requirements.txt``
+``Pip install -r requirements.txt``
 
 ``Run service.Py wait until it finishes downloading falcon model``
 
