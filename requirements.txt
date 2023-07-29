@@ -1,6 +1,7 @@
 huggingface
 transformers
-accelerate einops
+accelerate 
+einops
 xformers
 fastapi
 uvicorn
